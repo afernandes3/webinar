@@ -750,11 +750,19 @@ export default function Home() {
           {/* Copyright */}
           <div className="border-t border-gray-700 pt-8 text-center text-gray-400">
             <p>
-              &copy; 2026 Webinar Estratégico B2B Angola. Todos os direitos reservados.
+              &copy; 2026 Webinar - Impêrio Digital. Todos os direitos reservados.
             </p>
-            <p className="text-sm mt-2">
-              Desenvolvido por Adilson Fernandes
-            </p>
+<p className="text-sm mt-2">
+  Desenvolvido por{" "}
+  <a
+    href="https://www.instagram.com/adilson.designer_/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="underline hover:opacity-80"
+  >
+    Adilson Fernandes
+  </a>
+</p>
           </div>
         </div>
       </footer>
