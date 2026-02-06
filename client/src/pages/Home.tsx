@@ -178,7 +178,7 @@ export default function Home() {
             >
               <div className="inline-block mb-4 px-4 py-2 bg-blue-50 rounded-full">
                 <span className="text-primary font-semibold text-sm">
-                  🚀 Webinar Estratégico
+                  Webinar Estratégico
                 </span>
               </div>
               <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6 leading-tight">
@@ -753,7 +753,7 @@ export default function Home() {
               &copy; 2026 Webinar Estratégico B2B Angola. Todos os direitos reservados.
             </p>
             <p className="text-sm mt-2">
-              Desenvolvido com ❤️ para o mercado B2B angolano
+              Desenvolvido por Adilson Fernandes
             </p>
           </div>
         </div>
